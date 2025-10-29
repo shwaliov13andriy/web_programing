@@ -1,0 +1,19 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Verdana;
+}
+h1{
+  color:#df8e33;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  background:#f4f2e5;
+  font-weight: bold;
+  text-align: center;
+  }
+  label{
+    color:#b86184;
+    margin-right: 10px;
+    box-shadow: 2px 2px 5px #dbc4a5, -2px -2px 5px #77c1e8;
+    border:2px dotted pink;
+    border-radius: 20%;
+    }
